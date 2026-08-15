@@ -1,2 +1,3 @@
-# projeto-erp-odontologia
+# projeto pratica profissionais em ads
 Sistema ERP para Gestão de Clínica Odontológica 
+##Grupo 27
